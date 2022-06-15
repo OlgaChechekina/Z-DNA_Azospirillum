@@ -23,7 +23,7 @@ Alphaproteobacteria, Caulobacter использовались в анализе.
 |   |   |
 |---|---|
 | ![](./histograms/C_flavus.png) | ![](./histograms/C_henricii.png)  |
-|  ![](./histograms/C_mirabilis.png) | ![](./histograms/C_rhizosphaerae.png)  |
+|  ![](./histograms/C_mirabilis.png) | ![](./histograms/C_rhizosphaera.png)  |
 | ![](./histograms/C_segnis.png)  |  |
 
 **homologuous clusters**
