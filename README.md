@@ -1,4 +1,4 @@
-# Azospirillum
+# Caulobacter
 
 Alphaproteobacteria, Caulobacter использовались в анализе.
 
