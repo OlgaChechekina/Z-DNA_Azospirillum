@@ -43,10 +43,10 @@ number of clusters: 4644
 *визуализация Z-DNA в промоторах*
 |   |   |
 |---|---|
-| ![](./visualization/cluster1.png) | ![](./visualization/cluster2.png)  |
-|  ![](./visualization/cluster3.png) | ![](./visualization/cluster4.png)  |
-| ![](./visualization/cluster5.png)  | ![](./visualization/cluster6.png)   |
-| ![](./visualization/cluster7.png)  | ![](./visualization/cluster8.png)   |
+| ![](./visualization/Cluster1.png) | ![](./visualization/Cluster2.png)  |
+|  ![](./visualization/Cluster3.png) | ![](./visualization/Cluster4.png)  |
+| ![](./visualization/Cluster5.png)  | ![](./visualization/Cluster6.png)   |
+| ![](./visualization/Cluster7.png)  | ![](./visualization/Cluster8.png)   |
 
 
 ## Multiple protein alignment
