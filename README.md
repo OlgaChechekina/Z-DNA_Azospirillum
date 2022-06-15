@@ -29,7 +29,8 @@ Alphaproteobacteria, Caulobacter использовались в анализе.
 **Кластеры**
 
 ![](./histograms/clusters.png)
-number of clusters: 4644
+
+Число кластеров: 4644
 
 
 # Число участков Z-DNA и их длина
@@ -50,7 +51,7 @@ number of clusters: 4644
 
 
 ## Множественное выравнивание белков 
-Files are in the folder *aligment*, one of alignements is provided here
+Файлы выравниваний находятся в папке *aligment*, пример приведен ниже
 
 <details>
 <summary>Cluster 1 alignment</summary>
