@@ -119,12 +119,11 @@ WP_013077445.1      QTRP
 
 # Предсказание G-квадруплексов
 
-## Number of quadruplex regions and quadruplex length
-
-| Species  |  A_caviae	| A_dhakensis |	A_encheleia	| A_hydrophila | A_media |
+## Число участков G-квадруплексов и их длины
+| Species  |  C_flavus |	C_henricii |	C_mirabilis |	C_rhizosphaera |	C_segnis |
 |---|--|--|---|--|---|
-| Number of quadruplex regions | 3919	| 2998 |	3149 |	2815 |	3302 | 
-| Quadruplex length  | 121057 |	91507 |	96600 |	85445 |	101636 |
+| Number of quadruplex regions | 4639	| 2938	| 3049	| 5038	| 2879 | 
+| Quadruplex length  | 132289 |	87637	| 89031	| 145818	| 82928 |
 
 
 **aaa distribution**
@@ -138,10 +137,11 @@ WP_013077445.1      QTRP
 **Quadruplexes visualization**
 |   |   |
 |---|---|
-| ![](./visualization/quadruplexes/cluster1.png) | ![](./visualization/quadruplexes/cluster2.png)  |
-|  ![](./visualization/quadruplexes/cluster3.png) | ![](./visualization/quadruplexes/cluster4.png)  |
-| ![](./visualization/quadruplexes/cluster5.png)  | ![](./visualization/quadruplexes/cluster6.png)   |
-| ![](./visualization/quadruplexes/cluster7.png)  | ![](./visualization/quadruplexes/cluster8.png)   |
+| ![](./visualization/luster_1_quadruplex.png) | ![](./visualization/Cluster_2_quadruplex.png)  |
+|  ![](./visualization/Cluster_3_quadruplex.png) | ![](./visualization/Cluster_4_quadruplex.png)  |
+| ![](./visualization/Cluster_5_quadruplex.png)  | ![](./visualization/Cluster_6_quadruplex.png)   |
+| ![](./visualization/Cluster_7_quadruplex.png)  | ![](./visualization/Cluster_8_quadruplex.png)   |
+
 
 R-scripts used for the analysis can be gained via:
 <details>
