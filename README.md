@@ -22,9 +22,9 @@ Alphaproteobacteria, Caulobacter использовались в анализе.
 **ZH-Score histograms**
 |   |   |
 |---|---|
-| ![](./histograms/A_caviae.png) | ![](./histograms/A_dhakensis.png)  |
-|  ![](./histograms/A_hydrophila.png) | ![](./histograms/A_encheleia.png)  |
-| ![](./histograms/A_media.png)  |  |
+| ![](./histograms/C_flavus.png) | ![](./histograms/C_henricii.png)  |
+|  ![](./histograms/C_mirabilis.png) | ![](./histograms/C_rhizosphaerae.png)  |
+| ![](./histograms/C_segnis.png)  |  |
 
 **homologuous clusters**
 
