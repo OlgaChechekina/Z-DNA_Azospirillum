@@ -4,10 +4,10 @@ Alphaproteobacteria, Caulobacter использовались в анализе.
 
 [Ссылка на colab](https://colab.research.google.com/drive/1_5P72lwLC4ZLEUQdjOeQWWKfvtPD_CWY?usp=sharing)
 
-# ОБщая информация
+# Общая информация
 Анализируемые организмы: *Caulobacter flavus*, *Caulobacter henricii*, *Caulobacter mirabilis*, *Caulobacter rhizosphaerae*, *Caulobacter segnis*
 
-# общая таблица
+# Общая таблица
 
 | Species  |  Genes number | Genome coverage | Genome length | Genome_plasmid length | Number of sequences |
 |---|--|--|---|--|---|
@@ -17,6 +17,7 @@ Alphaproteobacteria, Caulobacter использовались в анализе.
 | C_rhizosphaera |	5288.00 |	89.44| 	5732418.00 |	5963910.00 |	2.00 |
 | C_segnis |	4411.00 |	90.65 |	4655467.00 |	4655467.00 |	1.00 |
 
+Прочая статистика: https://docs.google.com/spreadsheets/d/1KQDy0_MQZVYTKdX1ksnddA-_FehDP3LllVt7rxA_fwM/edit?usp=sharing
 
 
 **Гистограмы ZH-Score**
