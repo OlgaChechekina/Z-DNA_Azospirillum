@@ -49,7 +49,7 @@ number of clusters: 4644
 | ![](./visualization/Cluster_7.png)  | ![](./visualization/Cluster_8.png)   |
 
 
-## Multiple protein alignment
+## Множественное выравнивание белков 
 Files are in the folder *aligment*, one of alignements is provided here
 
 <details>
@@ -126,39 +126,20 @@ WP_013077445.1      QTRP
 | Quadruplex length  | 132289 |	87637	| 89031	| 145818	| 82928 |
 
 
-**aaa distribution**
+**Quadruplexes score**
 |   |   |
 |---|---|
 | ![](./histograms/C_flavus_quadruplex.png) | ![](./histograms/C_henricii_quadruplex.png)  |
-| ![](./histograms/C_mirabilis_quadruplex.png) | ![](./histograms/C_rhizosphaerae_quadruplex.png)  |
+| ![](./histograms/C_mirabilis_quadruplex.png) | ![](./histograms/C_rhizosphaera_quadruplex.png)  |
 | ![](./histograms/C_segnis_quadruplex.png)  |  |
 
 
-**Quadruplexes visualization**
+**Визуалиация квадруплексов**
 |   |   |
 |---|---|
-| ![](./visualization/luster_1_quadruplex.png) | ![](./visualization/Cluster_2_quadruplex.png)  |
+| ![](./visualization/Cluster_1_quadruplex.png) | ![](./visualization/Cluster_2_quadruplex.png)  |
 |  ![](./visualization/Cluster_3_quadruplex.png) | ![](./visualization/Cluster_4_quadruplex.png)  |
 | ![](./visualization/Cluster_5_quadruplex.png)  | ![](./visualization/Cluster_6_quadruplex.png)   |
 | ![](./visualization/Cluster_7_quadruplex.png)  | ![](./visualization/Cluster_8_quadruplex.png)   |
 
-
-R-scripts used for the analysis can be gained via:
-<details>
-<summary>pqsfinder</summary>
-
-```
-!wget https://raw.githubusercontent.com/narek01/hse22_project/main/pqsfinder.r
-  
-```
-  
-<details>
-<summary>configure</summary>
-  
-```
-  
-!wget https://raw.githubusercontent.com/narek01/hse22_project/main/configure.r
-
-```
-<details>
 
