@@ -4,10 +4,10 @@ Alphaproteobacteria, Caulobacter использовались в анализе.
 
 [Ссылка на colab](https://colab.research.google.com/drive/1_5P72lwLC4ZLEUQdjOeQWWKfvtPD_CWY?usp=sharing)
 
-# General info
+# ОБщая информация
 Анализируемые организмы: *Caulobacter flavus*, *Caulobacter henricii*, *Caulobacter mirabilis*, *Caulobacter rhizosphaerae*, *Caulobacter segnis*
 
-# overview table
+# общая таблица
 
 | Species  |  Genes number | Genome coverage | Genome length | Genome_plasmid length | Number of sequences |
 |---|--|--|---|--|---|
@@ -19,7 +19,7 @@ Alphaproteobacteria, Caulobacter использовались в анализе.
 
 
 
-**ZH-Score histograms**
+**Гистограмы ZH-Score**
 |   |   |
 |---|---|
 | ![](./histograms/C_flavus.png) | ![](./histograms/C_henricii.png)  |
@@ -29,10 +29,10 @@ Alphaproteobacteria, Caulobacter использовались в анализе.
 **homologuous clusters**
 
 ![](./histograms/clusters.png)
-number of clusters: 4318
+number of clusters: 4644
 
 
-# Number of Z-DNA regions and Z-DNA length
+# Число участков Z-DNA и их длина
 
 | Species  |  C_flavus	| C_henricii |	C_mirabilis |	C_rhizosphaera	| C_segnis |
 |---|--|--|---|--|---|
@@ -40,7 +40,7 @@ number of clusters: 4318
 | Z-DNA length  | 322820	| 126852	| 214626 |	269193	| 276327 |
 
 
-*Z-DNA in promoters visualization*
+*визуализация Z-DNA в промоторах*
 |   |   |
 |---|---|
 | ![](./visualization/cluster1.png) | ![](./visualization/cluster2.png)  |
