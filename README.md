@@ -129,9 +129,9 @@ WP_013077445.1      QTRP
 **aaa distribution**
 |   |   |
 |---|---|
-| ![](./histograms/A_caviae_quadruplex.png) | ![](./histograms/A_dhakensis_quadruplex.png)  |
-| ![](./histograms/A_encheleia_quadruplex.png) | ![](./histograms/A_hydrophila_quadruplex.png)  |
-| ![](./histograms/A_media_quadruplex.png)  |  |
+| ![](./histograms/C_flavus_quadruplex.png) | ![](./histograms/C_henricii_quadruplex.png)  |
+| ![](./histograms/C_mirabilis_quadruplex.png) | ![](./histograms/C_rhizosphaerae_quadruplex.png)  |
+| ![](./histograms/C_segnis_quadruplex.png)  |  |
 
 
 **Quadruplexes visualization**
