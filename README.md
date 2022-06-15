@@ -34,11 +34,10 @@ number of clusters: 4318
 
 # Number of Z-DNA regions and Z-DNA length
 
-| Species  |  A_caulinodans |	A_oryzae	| A_ramasamyi |	A_thermophilum |	A_thiophilum |
+| Species  |  C_flavus	| C_henricii |	C_mirabilis |	C_rhizosphaera	| C_segnis |
 |---|--|--|---|--|---|
-| Number of Z-DNA regions| 92178 |	30198 |	30870 |	30321 |	31743 | 
-| Z-DNA length  | 359344 |	121602 |	123827 |	122256 |	127340 |
-
+| Number of Z-DNA regions| 81688	| 31202 |	53558	| 66835	| 73335 | 
+| Z-DNA length  | 322820	| 126852	| 214626 |	269193	| 276327 |
 
 
 *Z-DNA in promoters visualization*
