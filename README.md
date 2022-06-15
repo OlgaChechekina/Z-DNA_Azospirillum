@@ -26,7 +26,7 @@ Alphaproteobacteria, Caulobacter использовались в анализе.
 |  ![](./histograms/C_mirabilis.png) | ![](./histograms/C_rhizosphaera.png)  |
 | ![](./histograms/C_segnis.png)  |  |
 
-**homologuous clusters**
+**Кластеры**
 
 ![](./histograms/clusters.png)
 number of clusters: 4644
