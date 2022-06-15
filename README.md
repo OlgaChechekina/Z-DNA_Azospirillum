@@ -18,8 +18,6 @@ Alphaproteobacteria, Caulobacter использовались в анализе.
 | C_segnis |	4411.00 |	90.65 |	4655467.00 |	4655467.00 |	1.00 |
 
 
-![image](https://user-images.githubusercontent.com/60808830/173884168-0a472a40-c986-4b4b-9c32-9aec366d53da.png)
-
 
 **ZH-Score histograms**
 |   |   |
